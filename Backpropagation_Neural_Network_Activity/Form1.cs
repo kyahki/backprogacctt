@@ -113,6 +113,7 @@ namespace Backpropagation_Neural_Network_Activity
                 nn.setInputs(2, 0.0);
                 nn.setInputs(3, 1.0);
                 nn.setDesiredOutput(0, 0.0);
+
                 nn.learn();
 
                 nn.setInputs(0, 1.0);
