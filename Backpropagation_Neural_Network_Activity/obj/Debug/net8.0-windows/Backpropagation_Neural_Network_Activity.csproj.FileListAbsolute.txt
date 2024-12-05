@@ -14,3 +14,4 @@ C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Networ
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.pdb
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.genruntimeconfig.cache
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\ref\Backpropagation_Neural_Network_Activity.dll
+C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.sourcelink.json
