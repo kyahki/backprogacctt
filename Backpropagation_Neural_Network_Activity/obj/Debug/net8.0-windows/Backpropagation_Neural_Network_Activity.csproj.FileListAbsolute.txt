@@ -14,6 +14,7 @@ C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Networ
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.pdb
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.genruntimeconfig.cache
 C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\ref\Backpropagation_Neural_Network_Activity.dll
+<<<<<<< HEAD
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\bin\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.exe
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\bin\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.deps.json
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\bin\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.runtimeconfig.json
@@ -31,3 +32,6 @@ C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activit
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.pdb
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.genruntimeconfig.cache
 C:\Users\kimva\Source\Repos\bpnn_activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\ref\Backpropagation_Neural_Network_Activity.dll
+=======
+C:\Users\petronilo\Downloads\School\CIT\3Y1S\CS345\Backpropagation_Neural_Network_Activity\Backpropagation_Neural_Network_Activity\obj\Debug\net8.0-windows\Backpropagation_Neural_Network_Activity.sourcelink.json
+>>>>>>> 93af27f2da4e3797c26b07a8c1ad2cd99c8ac3ad
