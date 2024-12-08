@@ -39,8 +39,7 @@ The network is trained on the 16 input-output combinations shown above.
 Through experimentation, it was found that **2 hidden neurons** are sufficient to model the 4-input AND gate. Using fewer neurons results in the network failing to learn the patterns.
 
 ### Minimum Number of Training Epochs
-The network requires approximately **300-500 epochs** to converge, depending on:
-- The learning rate.
+The network requires approximately **1100-1900 epochs** to converge, depending on the learning rate.
 
 ## How to Run
 1. Clone the repository.
